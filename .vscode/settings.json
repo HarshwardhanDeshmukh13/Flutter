@@ -1,3 +1,4 @@
 {
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "C:/Users/Admin/Desktop/Flutter/Projects/Contacts_app/contact_app/Oepp Dart/Flutter_application_1/flutter_application_1/linux/flutter"
 }
